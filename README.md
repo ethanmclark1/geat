@@ -1,4 +1,5 @@
-# Biological-Inspired Evolutionary Algorithms
+# GEAT
+Genetic and Evolutionary Algorithm Toolkit for Python  
 
 ## Setup Environment
 `conda create --name <env> --file requirements.txt`
