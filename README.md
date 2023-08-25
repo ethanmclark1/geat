@@ -1,5 +1,6 @@
-# GEAT
-Genetic and Evolutionary Algorithm Toolkit for Python  
+# Genetic and Evolutionary Algorithm Toolkit for Python
+
+GEAT is a collection of evolutionary algorithms written in Python.
 
 ## Setup Environment
 `conda create --name <env> --file requirements.txt`
